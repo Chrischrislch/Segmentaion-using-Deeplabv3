@@ -1,7 +1,3 @@
-# ----------------------------------------
-# Written by Xiaoqing GUO
-# ----------------------------------------
-
 import torch
 import torch.nn as nn
 from net.deeplabv3plus import deeplabv3plus
