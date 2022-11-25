@@ -1,7 +1,3 @@
-# ----------------------------------------
-# Written by Xiaoqing GUO
-# ----------------------------------------
-
 from __future__ import print_function, division
 import os
 import torch
